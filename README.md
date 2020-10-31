@@ -52,7 +52,7 @@ variables).
 There is mainly two torrc parameters to control the prioritization
 advantage:
 
-MoneTorPriorityMod 1.0
+MoneTorPriorityMod 1.0  
 MoneTorFlowMod 0.0
 
 If you want to play with those values, look into the paper about how
