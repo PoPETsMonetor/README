@@ -22,21 +22,24 @@ relays.
 If you intent to re-use this code or to modify it, please read paper's
 section regarding efforts to preserve users privacy.
 
-## mt_stats_scripts
-
-Contains a few scripts used to parse/plot the data collection performed
-on the live Tor network.
+In this repo, you will also find in /mt_scripts a few scripts used to
+parse/plot the data collection performed on the live Tor network.
 
 ## shadow
 
 Contains a fork of Rob Jansen's Shadow simulation tool with new plot
 code dedicated to the payment channels developped in monetor-0.3.2.10
 
+Installation and usage logic is unchanged regarding the original tool.
+
 ## shadow-plugin-tor
 
 Contains a fork of Rob Jansen's shadow plugin with new parse tools
 dedicated to our payment channel logs developped in monetor-0.3.2.10
 
+Installation and usage is unchanged regarding the original tool. We add
+a few more capabilities to generation, processing and plotting, yet the
+logic is unchanged.
 
 # Performing a moneTor simulation
 
