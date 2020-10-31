@@ -50,7 +50,7 @@ you should be all set to reproduce our results.
 In this repository, 3 sh scripts can help you through these steps.
 First, you need to generate a Shadow Tor topology. Use
 generate_script.sh within a new directory (fill in the missing
-variables, and change the generate.py input values to your convenance).
+variables, and change the generate.py input values to your convenience).
 
 There is mainly two torrc parameters to control the prioritization
 advantage:
